@@ -9,3 +9,5 @@ writeRandomQuote = function () {
   }
 
 onload = writeRandomQuote();
+
+
